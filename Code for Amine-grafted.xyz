@@ -8,7 +8,6 @@ def load_xyz(file_path):
     """
     u = mda.Universe(file_path)
     return u
-
 def calculate_surface_area_and_volume(u):
     """
     Calculate the surface area and volume of the molecule using ConvexHull.
