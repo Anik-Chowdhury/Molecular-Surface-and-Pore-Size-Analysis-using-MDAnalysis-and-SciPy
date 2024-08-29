@@ -37,7 +37,7 @@ The script will output:
 - Surface Area in Å²
 - Volume in Å³
 - A list of pore sizes larger than the specified probe radius
-- 
+
 ## Applications
 
 This tool can be used for:
